@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">DetailX — Every frame matters</title>
+  <desc id="description">AI video enhancement. Up to 4K super-resolution and 60 FPS frame interpolation. Web, Desktop, API and MCP.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081527"/><stop offset="1" stop-color="#11394a"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#76edd2"/><stop offset="1" stop-color="#a9f1ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b9e6ee" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+  <path d="M 1050 -50 L 790 410 M 1150 -50 L 890 410" stroke="#76edd2" stroke-opacity=".10" stroke-width="70"/>
+  <rect x="60" y="50" width="34" height="5" rx="2.5" fill="#76edd2"/>
+  <text x="110" y="58" fill="#bad3dc" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">EVERY FRAME MATTERS</text>
+  <text x="56" y="159" fill="#f3fbff" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="88" letter-spacing="-4">Detail<tspan fill="#76edd2">X</tspan></text>
+  <text x="61" y="210" fill="#d4e4eb" font-family="Segoe UI,Arial,sans-serif" font-size="24">Sharper detail. Smoother motion.</text>
+  <text x="62" y="282" fill="#8eb6c8" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">WEB  /  DESKTOP  /  API  /  MCP</text>
+  <rect x="836" y="87" width="348" height="185" rx="18" fill="#0a2031" stroke="#82decf" stroke-opacity=".35"/>
+  <text x="872" y="161" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">4K <tspan fill="#7197a7" font-size="35">/</tspan> 60</text>
+  <text x="875" y="195" fill="#cfdee5" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">SUPER-RESOLUTION + FPS</text>
+  <text x="875" y="237" fill="#89b4c6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Cloud enhancement. Your workflow.</text>
+</svg>
