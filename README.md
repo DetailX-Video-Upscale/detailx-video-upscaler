@@ -62,7 +62,7 @@ These are original and enhanced frames from DetailX's public video examples. Ope
 | Upload and enhance in a browser | [Open DetailX](https://www.detail-x.ai/) |
 | Work with local clips on Windows or macOS | [Download the desktop app](https://www.detail-x.ai/download) |
 | Enhance videos from an AI assistant | [MCP setup and usage](MCP.md) |
-| Add enhancement to an application | [Direct API documentation](https://www.detail-x.ai/help/api/quickstart) |
+| Add enhancement to an application | [Direct API and documentation](https://www.detail-x.ai/integrations/api) |
 
 ## Connect with MCP
 
@@ -109,6 +109,6 @@ Read the **[complete MCP guide](MCP.md)** for configuration files, local uploads
 
 Generation uses DetailX credits. Available parameters, quotes, capacity, upload limits, and expiry are determined by the live service; use `get_capabilities`, `get_generation_capacity`, and `get_upload_instructions` instead of hardcoding assumptions. Download results before their displayed expiry. Enhancement results depend on source quality and settings.
 
-This repository contains product information, public comparison assets, and integration documentation. The cloud service and model weights are provided through DetailX.
+This repository contains product information, public comparison assets, and integration documentation. Video processing runs through the hosted DetailX service.
 
 [Website](https://www.detail-x.ai/) · [Help center](https://www.detail-x.ai/help) · [MCP connection page](https://www.detail-x.ai/integrations/mcp) · [Support](mailto:support@detail-x.ai)

@@ -62,7 +62,7 @@ DetailX 为已有视频提供最高 **4K 超分辨率与 60 FPS 智能插帧**�
 | 浏览器选片、预览与增强 | [打开 DetailX](https://www.detail-x.ai/) |
 | 在 Windows/macOS 处理本地视频 | [下载桌面客户端](https://www.detail-x.ai/download) |
 | 在 AI 助手中增强视频 | [MCP 接入与使用](MCP.zh-CN.md) |
-| 为应用集成视频增强 | [API 快速开始](https://www.detail-x.ai/help/api/quickstart) |
+| 为应用集成视频增强 | [API 接入与文档](https://www.detail-x.ai/integrations/api) |
 
 ## MCP 快速接入
 
@@ -109,6 +109,6 @@ claude
 
 生成会消耗 DetailX 积分。实际参数、报价、并发、上传限制和有效期以在线服务为准；通过 `get_capabilities`、`get_generation_capacity`、`get_upload_instructions` 获取当前信息，避免写死限制。请在页面显示的到期时间前下载结果。增强效果取决于源视频质量和参数。
 
-本仓库提供产品介绍、公开对比素材和接入文档，云端服务与模型权重通过 DetailX 提供。
+本仓库提供产品介绍、公开对比素材和接入文档，视频处理通过 DetailX 在线服务完成。
 
 [官网](https://www.detail-x.ai/) · [帮助中心](https://www.detail-x.ai/help) · [MCP 接入页](https://www.detail-x.ai/integrations/mcp) · [联系支持](mailto:support@detail-x.ai)
