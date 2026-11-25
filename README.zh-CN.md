@@ -40,11 +40,11 @@ DetailX 为已有视频提供最高 **4K 超分辨率与 60 FPS 智能插帧**�
 
 | 原片 · 480p | DetailX · 4K / 60 FPS 成片 |
 | :---: | :---: |
-| ![花卉人像原始帧](assets/flower-original.webp) | ![DetailX 花卉人像增强帧](assets/flower-detailx.webp) |
+| <img src="assets/flower-original.webp" alt="花卉人像原始帧" width="360"> | <img src="assets/flower-detailx.webp" alt="DetailX 花卉人像增强帧" width="360"> |
 
 | 原片 · 720p | DetailX · 4K / 60 FPS 成片 |
 | :---: | :---: |
-| ![近景人像原始帧](assets/portrait-original.jpg) | ![DetailX 近景人像增强帧](assets/portrait-detailx.webp) |
+| <img src="assets/portrait-original.jpg" alt="近景人像原始帧" width="360"> | <img src="assets/portrait-detailx.webp" alt="DetailX 近景人像增强帧" width="360"> |
 
 ## 为什么选择 DetailX
 

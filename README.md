@@ -40,11 +40,11 @@ These are original and enhanced frames from DetailX's public video examples. Ope
 
 | Original · 480p | DetailX · 4K / 60 FPS output |
 | :---: | :---: |
-| ![Original floral portrait frame](assets/flower-original.webp) | ![DetailX enhanced floral portrait frame](assets/flower-detailx.webp) |
+| <img src="assets/flower-original.webp" alt="Original floral portrait frame" width="360"> | <img src="assets/flower-detailx.webp" alt="DetailX enhanced floral portrait frame" width="360"> |
 
 | Original · 720p | DetailX · 4K / 60 FPS output |
 | :---: | :---: |
-| ![Original close-up portrait frame](assets/portrait-original.jpg) | ![DetailX enhanced close-up portrait frame](assets/portrait-detailx.webp) |
+| <img src="assets/portrait-original.jpg" alt="Original close-up portrait frame" width="360"> | <img src="assets/portrait-detailx.webp" alt="DetailX enhanced close-up portrait frame" width="360"> |
 
 ## Why it fits your workflow
 
