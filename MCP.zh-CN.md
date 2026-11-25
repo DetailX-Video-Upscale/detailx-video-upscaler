@@ -71,7 +71,7 @@ claude
 
 如果助手具备配置 MCP 的权限，也可以直接对它说：
 
-> 帮我添加远程 MCP 服务 https://www.detail-x.ai/api/v1/mcp/，命名为 detailx。需要授权时打开浏览器，让我登录并确认。
+> 帮我添加远程 MCP 服务 `https://www.detail-x.ai/api/v1/mcp/`，命名为 detailx。需要授权时打开浏览器，让我登录并确认。
 
 ## 2. 先用只读请求验证
 
